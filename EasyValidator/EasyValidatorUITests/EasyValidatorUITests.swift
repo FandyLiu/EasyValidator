@@ -1,6 +1,6 @@
 //
-//  ValidateUITests.swift
-//  ValidateUITests
+//  EasyValidatorUITests.swift
+//  EasyValidatorUITests
 //
 //  Created by 刘欢 on 2017/11/28.
 //  Copyright © 2017年 刘欢. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ValidateUITests: XCTestCase {
+class EasyValidatorUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

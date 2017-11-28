@@ -1,15 +1,15 @@
 //
-//  ValidateTests.swift
-//  ValidateTests
+//  EasyValidatorTests.swift
+//  EasyValidatorTests
 //
 //  Created by 刘欢 on 2017/11/28.
 //  Copyright © 2017年 刘欢. All rights reserved.
 //
 
 import XCTest
-@testable import Validate
+@testable import EasyValidator
 
-class ValidateTests: XCTestCase {
+class EasyValidatorTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

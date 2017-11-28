@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Validate
+//  EasyValidator
 //
 //  Created by 刘欢 on 2017/11/28.
 //  Copyright © 2017年 刘欢. All rights reserved.
